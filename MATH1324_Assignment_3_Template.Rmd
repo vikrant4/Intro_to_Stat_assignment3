@@ -1,0 +1,49 @@
+---
+title: "MATH1324 Assignment 3"
+subtitle: "Supermarket Price Wars"
+output: html_notebook
+---
+
+## Group/Individual Details
+
+* Student Name 1 (s3000000)
+* Student Name 2 (s3000001)
+* Student Name 3 (s3000003)
+
+## Executive Statement
+
+In your own words, provide a brief summary of the investigation. Explain the aim of the investigation, the procedure, sample, variables, main findings and conclusions. Write this section last after you have performed hypothesis testing. (Word count Max: 300 words) 
+
+## Load Packages and Data
+
+```{r}
+# This is a chunk where you can load the necessary data and packages required to reproduce the report
+# You should also include your code required to prepare your data for analysis. 
+```
+
+## Summary Statistics
+
+Use R to summarise the data from the investigation. Include an appropriate plot to help visualise the data. Describe the trend. 
+
+```{r}
+# This is a chunk for your summary statistics and visualisation code
+```
+
+
+## Hypothesis Test
+
+Use R to perform an appropriate hypothesis test to determine which supermarket is the cheapest. You need to explain your choice of hypothesis test, any assumptions and the significance level. 
+
+```{r}
+# This is a chunk for your hypothesis testing code.
+```
+
+## Interpretation
+
+Interpret the results of the hypothesis test by interpreting the $p$-value and confidence intervals and commenting on the statistical significance of the findings. 
+
+## Discussion 
+
+Discuss the findings of your investigation. What did you conclude? What were the strengths and limitations of your investigation? What improvements could be made or what would you do differently next time?
+
+
